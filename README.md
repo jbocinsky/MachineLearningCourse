@@ -1,4 +1,4 @@
-# MachineLearningCourse
+# Introduction to Machine Learning Course
 An introduction to machine learning course with a focus on the K-Nearest Neighbors algorithm. Developed by James Bocinsky.
 
 ## Syllabus
